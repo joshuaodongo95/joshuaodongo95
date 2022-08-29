@@ -9,7 +9,7 @@
      
 - 👀 I’m interested in web/mobile applications development 
 - 🌱 I’m currently exploring Dart/flutter for cross platform mobile Apps plus Python and it's web frameworks
-- 💞️ I’m looking to collaborate on PHP Laravel/Lumen, Slim and Flutter/Dart Projects
+- 💞️ I’m looking to collaborate on PHP Laravel/Lumen, Slim and Flutter/Dart & Flask Projects
 - Tools                                                                                                                                                        
   Git | Visual Studio | Android Studion | Composer | CMD | 
 - 📫 Reach me on joshuaodongo95@gmail.com
